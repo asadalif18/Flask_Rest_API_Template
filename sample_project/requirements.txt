@@ -1,0 +1,9 @@
+Flask==1.0.2
+flask-restx==0.2.0
+gunicorn==19.8.1
+coverage==4.5.1
+flake8==3.5.0
+newrelic==4.2.0.100
+pytest==3.6.3
+Flask-Testing==0.7.1
+
