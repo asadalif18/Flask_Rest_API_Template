@@ -116,7 +116,7 @@ sample_project/
 
 If you find this template useful, feel free to give it a star ⭐ on GitHub! Your support is greatly appreciated. Also, follow me for more projects and updates.
 
-[GitHub](https://github.com/asadalif18/)
+[My GitHub Account](https://github.com/asadalif18/)
 
 
 
